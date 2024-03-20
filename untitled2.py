@@ -6,3 +6,4 @@ Created on Wed Mar 20 14:01:35 2024
 """
 
 print("Hello World!")
+print("Hello!")
